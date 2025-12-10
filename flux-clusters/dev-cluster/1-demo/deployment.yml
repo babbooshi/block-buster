@@ -50,4 +50,3 @@ spec:
               valueFrom:
                 fieldRef:
                   fieldPath: spec.nodeName
-
